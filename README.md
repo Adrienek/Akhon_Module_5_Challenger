@@ -1,4 +1,4 @@
-# Akhon_Module_5_Challenge
+# Data Visualization
 
 CODE IS IN : Pymaceuticals / Adrienek_Pymaceuticals.ipynb
 
